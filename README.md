@@ -35,3 +35,18 @@ The project also includes an advanced SQL script containing additional business-
 * Customer ranking using SQL window functions
 
 These queries demonstrate deeper analytical skills and advanced SQL capabilities beyond the core business questions.
+
+Query Output Examples
+ 
+### Customer Ranking
+
+![Customer Ranking](screenshots/customer_ranking.png)
+
+### Repeat Customers
+
+![Repeat Customers](screenshots/repeat_customers.png)
+
+### Revenue by Country
+
+![Revenue by Country](screenshots/revenue_by_country.png)
+
